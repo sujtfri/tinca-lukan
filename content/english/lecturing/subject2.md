@@ -1,6 +1,6 @@
 +++
 title = 'Subject2'
-draft = true
+draft = false
 +++
 
 # Course Title

@@ -1,6 +1,6 @@
 +++
 title = 'Project2'
-draft = true
+draft = false
 +++
 
 # Project 2

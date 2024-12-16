@@ -1,6 +1,6 @@
 +++
 title = 'Lecturing'
-draft = true
+draft = false
 +++
 
 # Lecturing Overview

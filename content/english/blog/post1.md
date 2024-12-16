@@ -1,7 +1,7 @@
 +++
 title = "Exploring a New Research Idea"
 date = 2024-12-12T16:06:50+01:00
-draft = true
+draft = false
 +++
 
 # Exploring a New Research Idea

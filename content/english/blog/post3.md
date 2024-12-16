@@ -1,7 +1,7 @@
 +++
 title = "Attending My First Conference"
 date = 2024-10-15T09:00:00+01:00
-draft = true
+draft = false
 +++
 
 # Attending My First Conference

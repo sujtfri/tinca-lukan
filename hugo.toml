@@ -1,4 +1,4 @@
-baseURL = 'https://sujtfri.github.io/ime-priimek/' # change member_repository to your repository name
+baseURL = 'https://sujtfri.github.io/tinca-lukan/' # change member_repository to your repository name
 theme = "sujt_theme"
 
 [params]

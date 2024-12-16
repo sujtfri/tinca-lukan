@@ -1,7 +1,9 @@
 +++
 title = 'Member Template'
-draft = true
+draft = false
 +++
+
+# tinca lukan
 
 # Navodila za nastavitev osebne Hugo strani laboratorija
 
